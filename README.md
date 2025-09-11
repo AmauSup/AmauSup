@@ -1,28 +1,30 @@
-# 👋 Welcome to my GitHub!
+# 👋 Bienvenue sur mon GitHub !
 
-I’m a developer passionate about coding, continuous learning, and building useful projects.  
-What I particularly enjoy in this field is the opportunity to design and deliver concrete projects that provide real value and visible results.  
-Here you’ll find my experiments, personal projects, and some open-source contributions. 🚀
-
----
-
-## 🔧 Skills & Tools
-- **Languages**: Python, Javascript, Java, C#, PHP, C++  
-- **Frameworks**: Node.js, Flask, Symfony  
-- **Tools**: Git, Docker, Linux, VSCode, Eclipse, Microsoft Visual Studio 
+Je suis un développeur passionné par le codage, l’apprentissage continu et la création de projets utiles.
+Ce que j’apprécie particulièrement dans ce domaine, c’est la possibilité de concevoir et de livrer des projets concrets qui apportent une vraie valeur et des résultats visibles.
+Ici, vous trouverez mes expérimentations, mes projets personnels et quelques contributions open-source. 🚀
 
 ---
 
-## 📌 Featured Projects
+## 🔧 Compétences & Outils
+- **Langages** : Python, Javascript, Java, C#, PHP, C++
 
-- [**2D Platformer Game**](https://github.com/YOUR_USERNAME/2d-platformer) — A Unity game featuring 2D platform gameplay.  
-- [**Firefox History Extension**](https://github.com/YOUR_USERNAME/firefox-extension) — An extension to enhance the default Firefox browsing history.  
-- [**Mammal Milk API**](https://github.com/YOUR_USERNAME/mammal-milk-api) — A simple Python API with a phpMyAdmin database  
+- **Frameworks** : Node.js, Flask, Symfony
 
-*More projects are available in my repositories for those interested in my other experiments.*  
+- **Outils** : Git, Docker, Linux, VSCode, Eclipse, Microsoft Visual Studio
 
 ---
 
-## 🌍 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/amaury-demaille-a67226283/
-- ✉️ Email: amaurydemaille@gmail.com 
+## 📌 Projets phares
+
+- [**Jeu de plateforme 2D**](https://github.com/YOUR_USERNAME/2d-platformer) — Un jeu Unity proposant un gameplay de plateforme 2D..  
+- [**Extension Firefox History**](https://github.com/YOUR_USERNAME/firefox-extension) — Une extension pour améliorer l’historique de navigation par défaut de Firefox.
+- [**API Milk des Mammifères**](https://github.com/YOUR_USERNAME/mammal-milk-api) — Une API Python simple avec une base de données phpMyAdmin.  
+
+*D’autres projets sont disponibles dans mes dépôts pour ceux qui s’intéressent à mes autres expérimentations.*  
+
+---
+
+## 🌍 Contactez-moi
+- 💼 LinkedIn : https://www.linkedin.com/in/amaury-demaille-a67226283/
+- ✉️ Email : amaurydemaille@gmail.com
