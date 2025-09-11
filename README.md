@@ -17,9 +17,9 @@ Ici, vous trouverez mes expérimentations, mes projets personnels et quelques co
 
 ## 📌 Projets phares
 
-- [**Jeu de plateforme 2D**](https://github.com/YOUR_USERNAME/2d-platformer) — Un jeu Unity proposant un gameplay de plateforme 2D..  
-- [**Extension Firefox History**](https://github.com/YOUR_USERNAME/firefox-extension) — Une extension pour améliorer l’historique de navigation par défaut de Firefox.
-- [**API Milk des Mammifères**](https://github.com/YOUR_USERNAME/mammal-milk-api) — Une API Python simple avec une base de données phpMyAdmin.  
+- [**Jeu de plateforme 2D**](https://github.com/AmauSup/2D_Plateform_Unity_Project) — Un jeu Unity proposant un gameplay de plateforme 2D..  
+- [**Extension Firefox History**](https://github.com/AmauSup/Firefox_Extension_History) — Une extension pour améliorer l’historique de navigation par défaut de Firefox.
+- [**API Milk des Mammifères**](https://github.com/AmauSup/PythonApiWeb) — Une API Python simple avec une base de données phpMyAdmin.  
 
 *D’autres projets sont disponibles dans mes dépôts pour ceux qui s’intéressent à mes autres expérimentations.*  
 
