@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
-Je suis un développeur passionné par le codage, l’apprentissage continu et la création de projets utiles.
-Ce que j’apprécie particulièrement dans ce domaine, c’est la possibilité de concevoir et de livrer des projets concrets qui apportent une vraie valeur et des résultats visibles.
+Ce que j’apprécie particulièrement dans le développement, c’est la possibilité de concevoir et de réaliser des projets concrets, qui apportent une vraie valeur et un résultat visible. 
+Curieux et impliqué, j’aime explorer différentes technologies et transformer des idées en solutions fonctionnelles et utiles.
 Ici, vous trouverez mes expérimentations, mes projets personnels et quelques contributions open-source. 🚀
 
 ---
